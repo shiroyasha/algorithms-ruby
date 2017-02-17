@@ -24,7 +24,7 @@ def test(array, element)
   if array.include?(element) == result
     puts green(" ---- correct result")
   else
-    puts green(" ---- incorrect result")
+    puts red(" ---- incorrect result")
   end
 end
 

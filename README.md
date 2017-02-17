@@ -16,6 +16,7 @@ The list is based on
 #### 2.3.3 Sequence search
 
 - [Linear search](combinatorial/sequence/search/linear.rb)
+- [Binary search](combinatorial/sequence/search/binary.rb)
 
 #### 2.3.7 Sequence sorting
 
