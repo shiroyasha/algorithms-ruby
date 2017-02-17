@@ -54,3 +54,4 @@ test [6, 1, 3, 1, 1, 9].sort, 12
 test [6, 1, 3, 1, 1, 9].sort, -12
 test [6, 1, 3, 1, 1, 9].sort, 1
 test [6, 1, 3, 1, 1, 9].sort, 9
+test 6.times.map { |_| rand(10) }.sort, rand(10)

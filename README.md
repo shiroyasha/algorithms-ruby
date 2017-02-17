@@ -17,6 +17,7 @@ The list is based on
 
 - [Linear search](combinatorial/sequence/search/linear.rb)
 - [Binary search](combinatorial/sequence/search/binary.rb)
+- [Fibonacci search](combinatorial/sequence/search/fibonacci.rb)
 
 #### 2.3.7 Sequence sorting
 
