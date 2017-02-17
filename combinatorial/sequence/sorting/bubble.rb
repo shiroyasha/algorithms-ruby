@@ -24,10 +24,10 @@ def bubble(array)
 end
 
 def test(array)
+  print array.inspect
+  print " => "
+
   builtin = array.sort
-
-  p builtin
-
   tested = bubble(array)
 
   puts (builtin == tested ? "\e[32m#{tested.inspect}\e[0m" : "\e[31m#{tested.inspect}\e[0m")

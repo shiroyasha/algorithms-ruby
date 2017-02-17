@@ -17,3 +17,4 @@ The list is based on
 
 - exchange sorting
     - [bubble sort][combinatorial/sequence/sorting/bubble.rb]
+    - [cocktail shaker sort][combinatorial/sequence/sorting/cocktail.rb]
