@@ -9,6 +9,11 @@ set up this repository as a workspace for exercising commonly used ones.
 The list is based on
 [the algorithm list on wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms).
 
-## Content
+## 1. Combinatorial algorithms
 
+### 2.3 Sequence algorithms
 
+#### 2.3.7 Sequence sorting
+
+- exchange sorting
+    - [bubble sort][combinatorial/sequence/sorting/bubble.rb]
