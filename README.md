@@ -21,3 +21,4 @@ Exchange sorting:
 - [Cocktail shaker sort](combinatorial/sequence/sorting/cocktail.rb)
 - [Comb sort](combinatorial/sequence/sorting/comb.rb)
 - [Gnome sort](combinatorial/sequence/sorting/gnome.rb)
+- [Odd/Even sort](combinatorial/sequence/sorting/odd-even.rb)
