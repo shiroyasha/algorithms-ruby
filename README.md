@@ -15,6 +15,7 @@ The list is based on
 
 #### 2.3.7 Sequence sorting
 
-- exchange sorting
-    - [bubble sort](combinatorial/sequence/sorting/bubble.rb)
-    - [cocktail shaker sort](combinatorial/sequence/sorting/cocktail.rb)
+Exchange sorting:
+
+- [bubble sort](combinatorial/sequence/sorting/bubble.rb)
+- [cocktail shaker sort](combinatorial/sequence/sorting/cocktail.rb)
