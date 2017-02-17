@@ -13,6 +13,10 @@ The list is based on
 
 ### 2.3 Sequence algorithms
 
+#### 2.3.3 Sequence search
+
+- [Linear search](combinatorial/sequence/search/linear.rb)
+
 #### 2.3.7 Sequence sorting
 
 Exchange sorting:
