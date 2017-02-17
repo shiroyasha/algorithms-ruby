@@ -1,5 +1,17 @@
 require 'timeout'
 
+# Cocktail shaker sort is similar to bubble sort
+# but it tries to eliminate turtles in the array.
+
+# In bubble sort small elements at the end of the
+# array - a.k.a. turtles - slow down sorting tremendously.
+# To combat this, we implement a bidirectional bubble sort
+# to push small elements from the end of the array to
+# the beggining of the array in early iterations.
+
+# Worst case performance is still O(n^2), however the algorithm
+# is faster than bubble sort on average.
+
 def swap(array, index1, index2)
   temp = array[index2]
   array[index2] = array[index1]
