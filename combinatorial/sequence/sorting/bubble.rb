@@ -1,3 +1,14 @@
+require 'timeout'
+
+# Bubble sort sorts elements in the array by
+# 'bubbling' large elements to the end of the
+# array.
+
+# In each iteration, at least one element is pushed to
+# its correct place.
+
+# Bubble sort is an O(n^2) algorithm.
+
 def swap(array, index1, index2)
   temp = array[index2]
   array[index2] = array[index1]
