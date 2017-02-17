@@ -22,3 +22,4 @@ Exchange sorting:
 - [Comb sort](combinatorial/sequence/sorting/comb.rb)
 - [Gnome sort](combinatorial/sequence/sorting/gnome.rb)
 - [Odd/Even sort](combinatorial/sequence/sorting/odd-even.rb)
+- [Quick sort](combinatorial/sequence/sorting/quick.rb)

@@ -50,3 +50,4 @@ test [10]
 test [1, 2, 3, 4, 5, 6]
 test [6, 5, 4, 3, 2, 1]
 test [6, 1, 3, 1, 1, 9]
+test (1..20).to_a.shuffle
