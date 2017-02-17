@@ -20,3 +20,4 @@ Exchange sorting:
 - [Bubble sort](combinatorial/sequence/sorting/bubble.rb)
 - [Cocktail shaker sort](combinatorial/sequence/sorting/cocktail.rb)
 - [Comb sort](combinatorial/sequence/sorting/comb.rb)
+- [Gnome sort](combinatorial/sequence/sorting/gnome.rb)
