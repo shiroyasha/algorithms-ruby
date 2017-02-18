@@ -33,3 +33,4 @@ Exchange sorting:
 Insertion sorting:
 
 - [Insertion Sort](combinatorial/sequence/sorting/insertion.rb)
+- [Tree Sort](combinatorial/sequence/sorting/tree.rb)
