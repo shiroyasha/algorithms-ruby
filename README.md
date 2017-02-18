@@ -29,3 +29,7 @@ Exchange sorting:
 - [Gnome sort](combinatorial/sequence/sorting/gnome.rb)
 - [Odd/Even sort](combinatorial/sequence/sorting/odd-even.rb)
 - [Quick sort](combinatorial/sequence/sorting/quick.rb)
+
+Insertion sorting:
+
+- [Insertion Sort](combinatorial/sequence/sorting/insertion.rb)
