@@ -37,4 +37,5 @@ Insertion sorting:
 
 Selection sorting:
 
+- [Selection Sort](communication/sequence/sorting/selection.rb)
 - [Heap Sort](communication/sequence/sorting/heapsort.rb)
