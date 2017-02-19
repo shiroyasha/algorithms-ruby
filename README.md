@@ -15,22 +15,26 @@ The list is based on
 
 #### 2.3.3 Sequence search
 
-- [Linear search](combinatorial/sequence/search/linear.rb)
-- [Binary search](combinatorial/sequence/search/binary.rb)
-- [Fibonacci search](combinatorial/sequence/search/fibonacci.rb)
+- [Linear Search](combinatorial/sequence/search/linear.rb)
+- [Binary Search](combinatorial/sequence/search/binary.rb)
+- [Fibonacci Search](combinatorial/sequence/search/fibonacci.rb)
 
 #### 2.3.7 Sequence sorting
 
 Exchange sorting:
 
-- [Bubble sort](combinatorial/sequence/sorting/bubble.rb)
-- [Cocktail shaker sort](combinatorial/sequence/sorting/cocktail.rb)
-- [Comb sort](combinatorial/sequence/sorting/comb.rb)
-- [Gnome sort](combinatorial/sequence/sorting/gnome.rb)
-- [Odd/Even sort](combinatorial/sequence/sorting/odd-even.rb)
-- [Quick sort](combinatorial/sequence/sorting/quick.rb)
+- [Bubble Sort](combinatorial/sequence/sorting/bubble.rb)
+- [Cocktail Shaker Sort](combinatorial/sequence/sorting/cocktail.rb)
+- [Comb Sort](combinatorial/sequence/sorting/comb.rb)
+- [Gnome Sort](combinatorial/sequence/sorting/gnome.rb)
+- [Odd/Even Sort](combinatorial/sequence/sorting/odd-even.rb)
+- [Quick Sort](combinatorial/sequence/sorting/quick.rb)
 
 Insertion sorting:
 
 - [Insertion Sort](combinatorial/sequence/sorting/insertion.rb)
 - [Tree Sort](combinatorial/sequence/sorting/tree.rb)
+
+Selection sorting:
+
+- [Heap Sort](communication/sequence/sorting/heapsort.rb)
