@@ -39,3 +39,7 @@ Selection sorting:
 
 - [Selection Sort](combinatorial/sequence/sorting/selection.rb)
 - [Heap Sort](combinatorial/sequence/sorting/heapsort.rb)
+
+Merge sorting:
+
+- [Top Down Merge Sort](combinatorial/sequence/sorting/top-down-merge.rb)
