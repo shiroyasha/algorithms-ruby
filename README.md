@@ -43,3 +43,4 @@ Selection sorting:
 Merge sorting:
 
 - [Top Down Merge Sort](combinatorial/sequence/sorting/top-down-merge.rb)
+- [Bottom Up Merge Sort](combinatorial/sequence/sorting/bottom-up-merge.rb)
